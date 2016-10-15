@@ -1,14 +1,14 @@
 # Site settings
-email: 
-baseurl: ""
+email: ryan_osterman@med.unc.edu
+baseurl: "/"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
+title: ryanosterman10's Portfolio
+description: "A portfolio for ryanosterman10"
+url: "https://ryanosterman10.github.io"
 twitter_username: 
 default_img: 
 
